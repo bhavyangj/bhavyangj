@@ -63,10 +63,10 @@
 <a href="https://github.com/bhavyang">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyangj&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/bhavyangj/FlutterExampleApps">
+<!--<a href="https://github.com/bhavyangj/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavyangj&repo=FlutterExampleApps&theme=light" />
 
-</a>
+<!--</a>
 <a href="https://github.com/bhavyangj/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavyangj&repo=VelocityX&theme=light" />
 </a>
