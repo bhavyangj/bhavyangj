@@ -45,7 +45,7 @@
 
 [![Twitter: Bhavyang8](https://img.shields.io/twitter/follow/bhavyang8?style=social)](https://twitter.com/bhavyang8)
 [![Linkedin: bhavyang-jariwala-9589591822](https://img.shields.io/badge/-bhavyang8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bhavyang-jariwala-958959182/)](https://www.linkedin.com/in/bhavyang-jariwala-958959182/)
-[![GitHub bhavyangj](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/bhavyangj)
+[![GitHub bhavyangj](https://img.shields.io/github/followers/bhavyangj?label=follow&style=social)](https://github.com/bhavyangj)
 
 
 **Languages and Tools:**  
