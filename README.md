@@ -40,7 +40,7 @@
 - 💬 Ask me about web and application related stuff.
 - 📫 How to reach me: Twitter - , mail- bhavyangbj@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 1-3 hours to pc gamming
+- ⚡ Fun fact: Like movies and gamming
 -->
 
 [![Twitter: Bhavyang8](https://img.shields.io/twitter/follow/bhavyang8?style=social)](https://twitter.com/bhavyang8)
